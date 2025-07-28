@@ -1,7 +1,1 @@
-Controller → Service → Repository → Database
-   ↓           ↓          ↓           ↓
-HTTP        Business   CRUD      Actual
-Handling    Logic    Operations   Storage
-
-
-This is for me to understand. Please do  not go through this.
+<img width="629" height="157" alt="image" src="https://github.com/user-attachments/assets/cf8f18b9-016b-4bfa-9440-e3cc9101bfe0" />
