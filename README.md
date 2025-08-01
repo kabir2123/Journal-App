@@ -12,7 +12,6 @@ A robust, production-ready journal application built with **Spring Boot**, **Mon
 - **Data Integrity**: Atomic transactions ensuring data consistency
 - **RESTful API**: Clean, intuitive REST endpoints following best practices
 - **Error Handling**: Comprehensive error responses with appropriate HTTP status codes
-- **Validation**: Input validation and data sanitization
 
 ### Technical Highlights
 - **@Transactional Annotations**: Ensures atomicity across database operations
